@@ -1,0 +1,11 @@
+div.ddd{
+    color: rgb(13, 17, 17);
+    font-size: 20px;
+    font-style: italic;
+}
+body{
+    background-color: rgb(116, 158, 160);
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover
+}

@@ -1,0 +1,61 @@
+header {
+     background: url();
+    padding: 5px;
+    color: wheat;
+}
+
+.type1 {
+    text-align: center;
+    font-style: italic;
+       
+}
+ div.david{
+     color: black;
+     font-size: 30px;
+ }
+.type2{
+    text-align: right;
+    font-style: italic;
+    
+}
+body{
+       
+    background-image: url(../racing-.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover
+}
+ul{
+    column-count: 1;
+    max-width: 20vw;                                                                        
+    margin: auto;
+    font-size: 20px;
+}
+li{
+    margin: 10px;
+
+}
+ div.david2{
+     font-size: 30px;
+     color: black;
+ }
+ ul li {
+     background-color: chartreuse;
+ }
+
+#title {
+    border: 5px solid black;
+    background-color: black;
+}
+a {
+    color: black;
+    font-size: 20px;
+}
+ a:hover {
+     background-color: rgb(131, 131, 97);
+     color: black;
+ }
+#B1 {
+    border: black solid;
+    padding: 10px; 
+}
